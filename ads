@@ -1,0 +1,1 @@
+com.inzgapps2store.tachiyoumimangareader_app1
